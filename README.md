@@ -2,7 +2,7 @@
 ---
 
 ![program Output](ss.PNG)
-![program Output](sc.PNG)
+![program Output](sc.jpg)
 
 
 
