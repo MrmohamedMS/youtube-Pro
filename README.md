@@ -2,6 +2,8 @@
 ---
 
 ![program Output](ss.PNG)
+![program Output](sc.PNG)
+
 
 
 # Installation
