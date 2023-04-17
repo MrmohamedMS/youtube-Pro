@@ -1,7 +1,7 @@
 # Youtube Downloader
 ---
 
-![program Output](./Screenshot%202023-04-17%20073432.png)
+![program Output](ss.PNG)
 
 
 # Installation
